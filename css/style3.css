@@ -1,0 +1,42 @@
+body{
+	background-image: url("../img/bham_cube.jpg");
+	background-size: cover;
+}
+
+.navbar-color{
+	background-color: #ccc0af;
+	color: #337ab7;
+}
+
+/*minimizing the space taken out by the cv image*/
+.cv-img {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.cv {
+	width: 100%;
+	margin-top: 100px;
+}
+
+.menu{
+	position: absolute;
+	top: 0px;
+	right: 15px;
+}
+
+.jumbotron {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    margin-top: 400px;
+    background-color: rgba(238, 238, 238, 0)
+}
+
+.jumbotron h1 {
+    font-size: 63px;
+    color: white;
+}
+
+.display-1{
+	color: white;
+}
